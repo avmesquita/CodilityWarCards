@@ -1,0 +1,2 @@
+# CodilityWarCards
+Codility WarCards game
